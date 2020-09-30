@@ -1,131 +1,175 @@
 {
   "categorias": [
     {
-      "titulo": "Front End",
+      "titulo": "Eletromagnetismo",
       "link": "https://www.alura.com.br/formacao-front-end",
-      "cor": "#6BD1FF",
+      "cor": "#FFDB58",
       "link_extra": {
-        "text": "Formação de Front End na Alura",
+        "text": "Cursos de eletromagnetismo",
         "url": "https://www.alura.com.br/cursos-online-front-end"
       },
       "videos": [
         {
-          "titulo": "O que faz uma desenvolvedora front-end? #HipstersPontoTube",
-          "url": "https://www.youtube.com/watch?v=ZY3-MFxVdEw"
+          "titulo": "Introdução: Lei de Coulomb, lei de Gauss (forma integral)",
+          "url": "https://www.youtube.com/watch?v=YTCXXG8Bpks&ab_channel=EletromagnetismoUFF"
         },
         {
-          "titulo": "SEO com React",
-          "url": "https://www.youtube.com/watch?v=c8mVlakBESE"
+          "titulo": "Operações com vetores: produto escalar",
+          "url": "https://www.youtube.com/watch?v=is4sE_bb4S8&ab_channel=EletromagnetismoUFF"
         },
         {
-          "titulo": "Componentização com VanillaJS #AluraMais",
-          "url": "https://www.youtube.com/watch?v=LatCKpcOMak"
+          "titulo": "Derivada direcional e gradiente em coordenadas cilíndricas",
+          "url": "https://www.youtube.com/watch?v=xgELS1CR4ow&ab_channel=EletromagnetismoUFF"
         },
         {
-          "titulo": "Pare de chutar e aprenda a display: inline #01",
-          "url": "https://www.youtube.com/watch?v=5PS6ku8NzIE"
+          "titulo": "O operador diferencial nabla",
+          "url": "https://www.youtube.com/watch?v=vYPLWHERz0g&ab_channel=EletromagnetismoUFF"
         },
         {
-          "titulo": "Template String: Interpolando strings com JavaScript #AluraMais",
-          "url": "https://www.youtube.com/watch?v=ORI_HTXaIw0"
+          "titulo": "O teorema da divergência e a delta de Dirac",
+          "url": "https://www.youtube.com/watch?v=3J8B_-1swzk&ab_channel=EletromagnetismoUFF"
         },
         {
-          "titulo": "Qual é a melhor linguagem de programação? #HipstersPontoTube",
-          "url": "https://www.youtube.com/watch?v=Uh-GNH-t89w"
+          "titulo": "Lei de Coulomb, Campo Elétrico (notação vetorial, cargas pontuais)",
+          "url": "https://www.youtube.com/watch?v=ugszO_QNBiA&ab_channel=EletromagnetismoUFF"
         },
         {
-          "titulo": "Novidades do Angular v9",
-          "url": "https://www.youtube.com/watch?v=34uHo7hFmG0"
+          "titulo": "Campo de esfera com carga superficial uniforme e a lei de Gauss",
+          "url": "https://www.youtube.com/watch?v=KiRq_Yy9tPY&ab_channel=EletromagnetismoUFF"
         },
         {
-          "titulo": "Base para aprender os frameworks",
-          "url": "https://www.youtube.com/watch?v=QzDjdlF1BQI"
-        }        
+          "titulo": "Eletromagnetismo - Experiencia 1",
+          "url": "https://www.youtube.com/watch?v=bq6IhapfucE&ab_channel=MichaelMelloch"
+        },
+        {
+          "titulo": "Eletromagnetismo - Experiencia 2",
+          "url": "https://www.youtube.com/watch?v=caHXwJbkbQU&ab_channel=MichaelMelloch"
+        },
+        {
+          "titulo": "Eletromagnetismo - Experiencia 3",
+          "url": "https://www.youtube.com/watch?v=F1PWnu01IQg&ab_channel=JamesDann"
+        }       
       ]
     },
     {
-      "titulo": "Back End",
+      "titulo": "Eletrônica Analôgica",
       "cor": "#00C86F",
       "link_extra": {
-        "text": "Cursos de Back End na Alura",
+        "text": "Cursos de eletrônica analógica",
         "url": "https://www.alura.com.br/cursos-online-programacao"
       },
       "videos": [
         {
-          "titulo": "PERCURSO em NÍVEL em ÁRVORE BINÁRIA | Estruturas de Dados #14",
-          "url": "https://www.youtube.com/watch?v=UOK7nS2E9xM"
+          "titulo": "O diodo em circuitos de corrente continua",
+          "url": "https://www.youtube.com/watch?v=0BosSTan8bI&ab_channel=UNIVESP"
         },
         {
-          "titulo": "Coders4Tips - S01E04: GitHub CLI - Uma Nova Experiência no Github!",
-          "url": "https://www.youtube.com/watch?v=6o6-bKOZOEY"
+          "titulo": "O diodo em circuitos de corrente alternada",
+          "url": "https://www.youtube.com/watch?v=VIaw2Rn5ntA&ab_channel=UNIVESP"
         },
         {
-          "titulo": "Programei 4 robôs que criam vídeos para mim no YouTube",
-          "url": "https://www.youtube.com/watch?v=kjhu1LEmRpY"
+          "titulo": "O comportamento do diodo em função da frequência",
+          "url": "https://www.youtube.com/watch?v=mQnsDMMwcok&ab_channel=UNIVESP"
         },
         {
-          "titulo": "API: Dicionário do Programador",
-          "url": "https://www.youtube.com/watch?v=vGuqKIRWosk"
-        }, 
+          "titulo": "O transistor bipolar de junção",
+          "url": "https://www.youtube.com/watch?v=sRukbJU834o&ab_channel=UNIVESP"
+        },
         {
-          "titulo": "Usando Git Direito",
-          "url": "https://www.youtube.com/watch?v=6OokP-NE49k"
+          "titulo": " A polarização do transistor bipolar de junção (TBJ)",
+          "url": "https://www.youtube.com/watch?v=_jIOS7YqdcY&t=1s&ab_channel=UNIVESP"
+        },
+        {
+          "titulo": "O transistor de efeito de campo (FET)",
+          "url": "https://www.youtube.com/watch?v=keoE6GF5bPo&ab_channel=UNIVESP"
+        },
+        {
+          "titulo": "O transistor FET operando com chave",
+          "url": "https://www.youtube.com/watch?v=JL0ssM8slBk&t=2s&ab_channel=UNIVESP"
+        },
+        {
+          "titulo": "Eletrônica Aplicada - Aula 08 - Amplificadores",
+          "url": "https://www.youtube.com/watch?v=dc0bCNTkp74&ab_channel=UNIVESP"
         }
       ]
     },
-    {
-      "titulo": "Data Science e Inteligência Artificial",
-      "cor": "#9cd33b",
-      "link_extra": {
-        "text": "Cursos de Data Science na Alura",
-        "url": "https://www.alura.com.br/formacao-data-science"
-      },
-      "videos": [
-        {
-          "titulo": "Teste de Turing",
-          "url": "https://www.youtube.com/watch?v=BaPGU4JWa34"
-        },
-        {
-          "titulo": "O que é Data Science?",
-          "url": "https://www.youtube.com/watch?v=5b9Z8toVaAU&t=9s"
-        },
-        {
-          "titulo": "Melhor forma de aprender Python",
-          "url": "https://www.youtube.com/watch?v=Gojqw9BQ5qY"
-        },
-        {
-          "titulo": "Como ingressar no mercado de Data Science?",
-          "url": "https://www.youtube.com/watch?v=gxyjGmOV540"
-        }
-      ]
-    },
-    {
-      "titulo": "Filmes",
+     {
+      "titulo": "Eletrônica Digital",
       "cor": "orange",
       "videos": [
         {
-          "titulo": "Interestellar",
-          "url": "https://www.youtube.com/watch?v=frD_IiY_A3E"
+          "titulo": "Fazendo Portas Lógicas a partir de transistors (inglês)",
+          "url": "https://www.youtube.com/watch?v=sTu3LwpF6XI"
         },
         {
-          "titulo": "Gattaca",
-          "url": "https://www.youtube.com/watch?v=Dl0tYLbrhhs"
+          "titulo": "Lógica booleana e portas lógicas",
+          "url": "https://www.youtube.com/watch?v=gI-qXk7XojA"
         },
         {
-          "titulo": "A Chegada",
-          "url": "https://www.youtube.com/watch?v=rNciXGzYZms"
+          "titulo": "Combinação de portas lógicas",
+          "url": "https://www.youtube.com/watch?v=BnB2m1nXZ84"
         },
         {
-          "titulo": "Feitiço do Tempo",
-          "url": "https://www.youtube.com/watch?v=zi8d69P9NvI"
+          "titulo": "Flip Flops",
+          "url": "https://www.youtube.com/watch?v=Hi7rK0hZnfc"
+        },
+        {
+          "titulo": "Flip Flop JK",
+          "url": "https://www.youtube.com/watch?v=F1OC5e7Tn_o&ab_channel=BenEater"
+        },
+        {
+          "titulo": "Flip Flop JK - Mestre / Escravo",
+          "url": "https://www.youtube.com/watch?v=rXHSB5w7CyE&ab_channel=BenEater"
+        },
+        {
+          "titulo": "Contador de programa",
+          "url": "https://www.youtube.com/watch?v=g_1HyxBzjl0&ab_channel=BenEater"
+        },
+        {
+          "titulo": "Decodificador de 7 segmentos",
+          "url": "https://www.youtube.com/watch?v=7zffjsXqATg&ab_channel=BenEater"
         }
       ]
     },
     {
-      "titulo": "Games",
+      "titulo": "Eletrônica Digital",
+      "cor": "orange",
+      "videos": [
+        {
+          "titulo": "Fazendo Portas Lógicas a partir de transistors (inglês)",
+          "url": "https://www.youtube.com/watch?v=sTu3LwpF6XI"
+        },
+        {
+          "titulo": "Lógica booleana e portas lógicas",
+          "url": "https://www.youtube.com/watch?v=gI-qXk7XojA"
+        },
+        {
+          "titulo": "Combinação de portas lógicas",
+          "url": "https://www.youtube.com/watch?v=BnB2m1nXZ84"
+        },
+        {
+          "titulo": "Flip Flops",
+          "url": "https://www.youtube.com/watch?v=Hi7rK0hZnfc"
+        },
+        {
+          "titulo": "Flip Flop JK",
+          "url": "https://www.youtube.com/watch?v=F1OC5e7Tn_o&ab_channel=BenEater"
+        },
+        {
+          "titulo": "Flip Flop JK - Mestre / Escravo",
+          "url": "https://www.youtube.com/watch?v=rXHSB5w7CyE&ab_channel=BenEater"
+        },
+        {
+          "titulo": "Contador de programa",
+          "url": "https://www.youtube.com/watch?v=g_1HyxBzjl0&ab_channel=BenEater"
+        }
+      ]
+    },
+    {
+      "titulo": "Programação",
       "cor": "red",
       "link_extra": {
-        "text": "Formação de Jogos na Alura",
+        "text": "Sites para aprender a programar.",
         "url": "https://www.alura.com.br/formacao-jogos-unity"
       },
       "videos": [
@@ -152,7 +196,7 @@
       ]
     },
     {
-      "titulo": "Aprendendo a aprender tecnologia",
+      "titulo": "Projetos",
       "cor": "#6b5be2",
       "link_extra": {
         "text": "Curso sobre aprendizado na Alura",
