@@ -1,0 +1,229 @@
+{
+  "categorias": [
+    {
+      "titulo": "Eletromagnetismo",
+      "link": "https://www.alura.com.br/formacao-front-end",
+      "cor": "#FFDB58",
+      "link_extra": {
+        "text": "Cursos de eletromagnetismo",
+        "url": "https://www.alura.com.br/cursos-online-front-end"
+      },
+      "videos": [
+        {
+          "titulo": "Introdução: Lei de Coulomb, lei de Gauss (forma integral)",
+          "url": "https://www.youtube.com/watch?v=YTCXXG8Bpks&ab_channel=EletromagnetismoUFF"
+        },
+        {
+          "titulo": "Operações com vetores: produto escalar",
+          "url": "https://www.youtube.com/watch?v=is4sE_bb4S8&ab_channel=EletromagnetismoUFF"
+        },
+        {
+          "titulo": "Derivada direcional e gradiente em coordenadas cilíndricas",
+          "url": "https://www.youtube.com/watch?v=xgELS1CR4ow&ab_channel=EletromagnetismoUFF"
+        },
+        {
+          "titulo": "O operador diferencial nabla",
+          "url": "https://www.youtube.com/watch?v=vYPLWHERz0g&ab_channel=EletromagnetismoUFF"
+        },
+        {
+          "titulo": "O teorema da divergência e a delta de Dirac",
+          "url": "https://www.youtube.com/watch?v=3J8B_-1swzk&ab_channel=EletromagnetismoUFF"
+        },
+        {
+          "titulo": "Lei de Coulomb, Campo Elétrico (notação vetorial, cargas pontuais)",
+          "url": "https://www.youtube.com/watch?v=ugszO_QNBiA&ab_channel=EletromagnetismoUFF"
+        },
+        {
+          "titulo": "Campo de esfera com carga superficial uniforme e a lei de Gauss",
+          "url": "https://www.youtube.com/watch?v=KiRq_Yy9tPY&ab_channel=EletromagnetismoUFF"
+        },
+        {
+          "titulo": "Eletromagnetismo - Experiencia 1",
+          "url": "https://www.youtube.com/watch?v=bq6IhapfucE&ab_channel=MichaelMelloch"
+        },
+        {
+          "titulo": "Eletromagnetismo - Experiencia 2",
+          "url": "https://www.youtube.com/watch?v=caHXwJbkbQU&ab_channel=MichaelMelloch"
+        },
+        {
+          "titulo": "Eletromagnetismo - Experiencia 3",
+          "url": "https://www.youtube.com/watch?v=F1PWnu01IQg&ab_channel=JamesDann"
+        }       
+      ]
+    },
+    {
+      "titulo": "Eletrônica Analôgica",
+      "cor": "#00C86F",
+      "link_extra": {
+        "text": "Cursos de eletrônica analógica",
+        "url": "https://www.alura.com.br/cursos-online-programacao"
+      },
+      "videos": [
+        {
+          "titulo": "O diodo em circuitos de corrente continua",
+          "url": "https://www.youtube.com/watch?v=0BosSTan8bI&ab_channel=UNIVESP"
+        },
+        {
+          "titulo": "O diodo em circuitos de corrente alternada",
+          "url": "https://www.youtube.com/watch?v=VIaw2Rn5ntA&ab_channel=UNIVESP"
+        },
+        {
+          "titulo": "O comportamento do diodo em função da frequência",
+          "url": "https://www.youtube.com/watch?v=mQnsDMMwcok&ab_channel=UNIVESP"
+        },
+        {
+          "titulo": "O transistor bipolar de junção",
+          "url": "https://www.youtube.com/watch?v=sRukbJU834o&ab_channel=UNIVESP"
+        },
+        {
+          "titulo": " A polarização do transistor bipolar de junção (TBJ)",
+          "url": "https://www.youtube.com/watch?v=_jIOS7YqdcY&t=1s&ab_channel=UNIVESP"
+        },
+        {
+          "titulo": "O transistor de efeito de campo (FET)",
+          "url": "https://www.youtube.com/watch?v=keoE6GF5bPo&ab_channel=UNIVESP"
+        },
+        {
+          "titulo": "O transistor FET operando com chave",
+          "url": "https://www.youtube.com/watch?v=JL0ssM8slBk&t=2s&ab_channel=UNIVESP"
+        },
+        {
+          "titulo": "Eletrônica Aplicada - Aula 08 - Amplificadores",
+          "url": "https://www.youtube.com/watch?v=dc0bCNTkp74&ab_channel=UNIVESP"
+        }
+      ]
+    },
+     {
+      "titulo": "Eletrônica Digital",
+      "cor": "orange",
+      "videos": [
+        {
+          "titulo": "Fazendo Portas Lógicas a partir de transistors (inglês)",
+          "url": "https://www.youtube.com/watch?v=sTu3LwpF6XI"
+        },
+        {
+          "titulo": "Lógica booleana e portas lógicas",
+          "url": "https://www.youtube.com/watch?v=gI-qXk7XojA"
+        },
+        {
+          "titulo": "Combinação de portas lógicas",
+          "url": "https://www.youtube.com/watch?v=BnB2m1nXZ84"
+        },
+        {
+          "titulo": "Flip Flops",
+          "url": "https://www.youtube.com/watch?v=Hi7rK0hZnfc"
+        },
+        {
+          "titulo": "Flip Flop JK",
+          "url": "https://www.youtube.com/watch?v=F1OC5e7Tn_o&ab_channel=BenEater"
+        },
+        {
+          "titulo": "Flip Flop JK - Mestre / Escravo",
+          "url": "https://www.youtube.com/watch?v=rXHSB5w7CyE&ab_channel=BenEater"
+        },
+        {
+          "titulo": "Contador de programa",
+          "url": "https://www.youtube.com/watch?v=g_1HyxBzjl0&ab_channel=BenEater"
+        },
+        {
+          "titulo": "Decodificador de 7 segmentos",
+          "url": "https://www.youtube.com/watch?v=7zffjsXqATg&ab_channel=BenEater"
+        }
+      ]
+    },
+    {
+      "titulo": "Eletrônica Digital",
+      "cor": "orange",
+      "videos": [
+        {
+          "titulo": "Fazendo Portas Lógicas a partir de transistors (inglês)",
+          "url": "https://www.youtube.com/watch?v=sTu3LwpF6XI"
+        },
+        {
+          "titulo": "Lógica booleana e portas lógicas",
+          "url": "https://www.youtube.com/watch?v=gI-qXk7XojA"
+        },
+        {
+          "titulo": "Combinação de portas lógicas",
+          "url": "https://www.youtube.com/watch?v=BnB2m1nXZ84"
+        },
+        {
+          "titulo": "Flip Flops",
+          "url": "https://www.youtube.com/watch?v=Hi7rK0hZnfc"
+        },
+        {
+          "titulo": "Flip Flop JK",
+          "url": "https://www.youtube.com/watch?v=F1OC5e7Tn_o&ab_channel=BenEater"
+        },
+        {
+          "titulo": "Flip Flop JK - Mestre / Escravo",
+          "url": "https://www.youtube.com/watch?v=rXHSB5w7CyE&ab_channel=BenEater"
+        },
+        {
+          "titulo": "Contador de programa",
+          "url": "https://www.youtube.com/watch?v=g_1HyxBzjl0&ab_channel=BenEater"
+        }
+      ]
+    },
+    {
+      "titulo": "Programação",
+      "cor": "red",
+      "link_extra": {
+        "text": "Sites para aprender a programar.",
+        "url": "https://www.alura.com.br/formacao-jogos-unity"
+      },
+      "videos": [
+        {
+          "titulo": "Final Fantasy 7",
+          "url": "https://www.youtube.com/watch?v=I_ATSCTnUD8"
+        },
+        {
+          "titulo": "Assassins Creed Valhalla",
+          "url": "https://www.youtube.com/watch?v=KDfdjB9uL0U"
+        },
+        {
+          "titulo": "God of War 4",
+          "url": "https://www.youtube.com/watch?v=FyIwEFXOcaE"
+        },
+        {
+          "titulo": "Resident Evil 8",
+          "url": "https://www.youtube.com/watch?v=JSapXD9vxYA"
+        },
+        {
+          "titulo": "Pokémon Let's Go Pikachu/Eevee",
+          "url": "https://www.youtube.com/watch?v=L56q_k2ydrs"
+        }
+      ]
+    },
+    {
+      "titulo": "Projetos",
+      "cor": "#6b5be2",
+      "link_extra": {
+        "text": "Curso sobre aprendizado na Alura",
+        "url": "https://alura.com.br/curso-online-aprender-a-aprender-tecnicas-para-seu-autodesenvolvimento"
+      },
+      "videos": [
+        {
+          "titulo": "Como estudar melhor?",
+          "url": "https://www.youtube.com/watch?v=Is6c9KSGCbk&feature=youtu.be"
+        },
+        {
+          "titulo": "Faculdade",
+          "url": "https://www.youtube.com/watch?v=jw06H8esyzQ&feature=youtu.be"
+        },
+        {
+          "titulo": "Frameworks",
+          "url": "https://www.youtube.com/watch?v=QzDjdlF1BQI"
+        },
+        {
+          "titulo": "A mágica do Aprendizado",
+          "url": "https://www.youtube.com/watch?v=oTEXzpfEpPY"
+        },
+        {
+          "titulo": "Como aprender a programar?",
+          "url": "https://www.youtube.com/watch?v=MwCx2qKdbDw&feature=youtu.be"
+        }
+      ]
+    }
+  ]
+}
